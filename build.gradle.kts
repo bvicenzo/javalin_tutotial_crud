@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.javalin:javalin:7.1.0")
+    implementation("io.javalin:javalin:7.2.0")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.+")
     testImplementation(kotlin("test-junit"))
 }
